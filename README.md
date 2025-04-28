@@ -10,7 +10,9 @@ Full Stack Web Developer
 
 Passionate about Web Development and always excited to explore new opportunities and collaborations
 
+<!-- 
 * ✉️  You can contact me at [suryatejessk@gmail.com](mailto:suryatejessk@gmail.com)
+-->
 * 🧠  I'm learning MEN Stack
 * 🤝  I'm open to collaborating on Projects, Hackathons
 * ⚡  I am Ragnar Lothbrok
