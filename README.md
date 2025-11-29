@@ -24,7 +24,7 @@
 - [ ] Participate in AoC ( Advent of Code ) 
 - [ ] Contribute to the [TJ-Bot](https://github.com/Together-Java/TJ-Bot)
 - [ ] Build a portfolio webite
-- [ ] Build a menu bar app for mac os to toggle menu bar and mono audio
+- [ ] Build a custome text based wallpaper generator 
 
 ### 2026
 - [ ] Contribute to the [TJ-Bot](https://github.com/Together-Java/TJ-Bot)
