@@ -41,8 +41,7 @@
 
   ### Ongoing Projects
 
-  i . Portfolio Website
-  
+  i . Portfolio Website 
   ii. E-Commerce site
   
  ### Future Projects
