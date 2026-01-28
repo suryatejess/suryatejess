@@ -21,16 +21,17 @@
   ## Goals
 
 ### 2025
-- [ ] Participate in AoC ( Advent of Code ) 
+- [x] Participate in AoC ( Advent of Code ) 
 - [ ] Contribute to the [TJ-Bot](https://github.com/Together-Java/TJ-Bot)
 - [ ] Build a portfolio webite
-- [ ] Build a custome text based wallpaper generator 
+- [x] Build a custome text based wallpaper generator 
 
 ### 2026
 - [ ] Contribute to the [TJ-Bot](https://github.com/Together-Java/TJ-Bot)
 - [ ] Build a Personal Finance Manager API without out tutorials or AI
 - [ ] Build a macropad with raspberry pi pico
-- [ ] Learn System Design 
+- [ ] Learn System Design
+- [ ] Build a fullstack E-Commerce site
 
 --- 
 
@@ -41,6 +42,7 @@
   ### Ongoing Projects
 
   i . Portfolio Website
+  ii. E-Commerce site
   
  ### Future Projects
 
