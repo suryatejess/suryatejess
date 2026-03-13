@@ -23,15 +23,17 @@
 ### 2025
 - [x] Participate in AoC ( Advent of Code ) 
 - [ ] Contribute to the [TJ-Bot](https://github.com/Together-Java/TJ-Bot)
-- [ ] Build a portfolio webite
+- [x] Build a portfolio webite ( finished in 2026 Mar ) 
 - [x] Build a custome text based wallpaper generator 
 
 ### 2026
 - [ ] Contribute to the [TJ-Bot](https://github.com/Together-Java/TJ-Bot)
 - [ ] Build a Personal Finance Manager API without out tutorials or AI
 - [ ] Build a macropad with raspberry pi pico
-- [ ] Learn System Design
-- [ ] Build a fullstack E-Commerce site
+- [ ] Learn LLD
+- [ ] Learn HLD
+- [x] Build a fullstack E-Commerce site
+- [ ] Build a collaborative code editor 
 
 --- 
 
@@ -41,7 +43,7 @@
 
   ### Ongoing Projects
 
-  i . Portfolio Website 
+  i . Collaborative Code editor 
   
   ii. E-Commerce site
   
