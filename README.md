@@ -28,7 +28,6 @@
 
 ### 2026
 - [ ] Contribute to the [TJ-Bot](https://github.com/Together-Java/TJ-Bot)
-- [ ] Build a Personal Finance Manager API without out tutorials or AI
 - [ ] Build a macropad with raspberry pi pico
 - [ ] Learn LLD
 - [x] Build a fullstack E-Commerce site
@@ -44,13 +43,13 @@
 
   ### Ongoing Projects
 
-  i . Collaborative Code editor 
-  
-  ii. E-Commerce site
+  i . Build a new portfolio website and put it on a custom domain
   
  ### Future Projects
 
-  i . Personal Finance Manager API
+  i . HTTP/1.1 server from scratch using Java
+
+  ii. Build a macropad with raspberry pi pico
   
 ---
 
