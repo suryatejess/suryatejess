@@ -44,7 +44,7 @@
   
  ### Future Projects
 
-  i . HTTP/1.1 server from scratch using Java
+  i . Implement HTTP/1.1 server from scratch using Java
 
   ii. Build a macropad with raspberry pi pico
   
@@ -68,10 +68,11 @@
 
 ### Tools
 ![Maven](http://img.shields.io/badge/-Apache%20Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Git](http://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 --- 
 
   ## Currently learning
 
-![Git](http://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+![Spring Security](http://img.shields.io/badge/-SpringSecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
