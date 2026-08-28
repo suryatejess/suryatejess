@@ -31,9 +31,9 @@
 - [ ] Build a Personal Finance Manager API without out tutorials or AI
 - [ ] Build a macropad with raspberry pi pico
 - [ ] Learn LLD
-- [ ] Learn HLD
 - [x] Build a fullstack E-Commerce site
-- [ ] Build a collaborative code editor 
+- [ ] Build a new portfolio website and put it on a custom domain
+- [ ] Learn Spring Security
 
 --- 
 
