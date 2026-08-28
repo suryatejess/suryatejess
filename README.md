@@ -34,6 +34,7 @@
 - [x] Build a fullstack E-Commerce site
 - [ ] Build a new portfolio website and put it on a custom domain
 - [ ] Learn Spring Security
+- [ ] HTTP/1.1 server from scratch using Java
 
 --- 
 
