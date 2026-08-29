@@ -47,6 +47,8 @@
   i . Implement HTTP/1.1 server from scratch using Java
 
   ii. Build a macropad with raspberry pi pico
+
+  iii. Build SecureVault - a safe place to store documents like Google Drive
   
 ---
 
