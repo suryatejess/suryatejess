@@ -48,7 +48,7 @@
 
   ii. Build a macropad with raspberry pi pico
 
-  iii. Build SecureVault - a safe place to store documents like Google Drive
+  iii. Build SecureDocumentVault - a safe place to store documents like Google Drive
   
 ---
 
